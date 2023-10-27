@@ -10,7 +10,5 @@
 
 
 
-
-
 ### extras
 * pwd traz o caminho absoluto da pagina

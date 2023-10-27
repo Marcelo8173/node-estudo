@@ -1,4 +1,5 @@
 var moduleGlobal = require('./global')
+var arrays = require('./arrays-modulos')
 
 // moduleGlobal.generate()
 // moduleGlobal.terceira()
@@ -6,3 +7,4 @@ var moduleGlobal = require('./global')
 console.log(moduleGlobal.msg)
 
 console.log(arguments)
+console.log(arrays)
